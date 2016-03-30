@@ -1,5 +1,5 @@
 ---
-title: The Traitor Baru Comorant - Seth Dickson
+title: The Traitor Baru Comorant - Seth Dickinson
 liked: Yes
 ---
 <img src="/images/ttbc.jpg" style="float: right; margin: 10px; width:200px;" />
