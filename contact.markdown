@@ -2,5 +2,4 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+You can find my contact details at [ndrewsemler.com](http://ndrewsemler.com)
