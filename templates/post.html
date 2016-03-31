@@ -1,7 +1,10 @@
 <div class="info">
     Posted on $date$
     $if(author)$
-        by $author$
+        by $author$ 
+        $if(editor)$
+            - edited by $editor$
+        $endif$
     $endif$
 </div>
 
