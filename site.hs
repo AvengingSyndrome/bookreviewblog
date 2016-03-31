@@ -61,7 +61,7 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
-    create ["rss.xml"] $ do
+    create ["review_rss.xml"] $ do
         route idRoute
         compile $ do
             let feedCtx = postCtx `mappend`
