@@ -3,6 +3,7 @@ title: Annihilation - Jeff VanderMeer
 liked: Yes
 editor: Emily
 author: Andrew
+description: This is a seriously creepy sci-fi post apocalypse novel that follows a biologist on expedition into Area X. Her expedition runs into the tower. A mysterious living structure embedded into the ground. Who is producing the writing on the wall? Why does it seem alive? 
 ---
 <img src="/images/annihilation.jpg" style="float: right; margin: 10px; width:200px;" />
 This is a seriously creepy sci-fi post apocalypse novel that follows a biologist on expedition into Area X. Her expedition runs into the tower. A mysterious living structure embedded into the ground. Who is producing the writing on the wall? Why does it seem alive? 
