@@ -3,8 +3,9 @@ title: Annihilation - Jeff VanderMeer
 liked: Yes
 editor: Emily
 author: Andrew
+image: annihilation.jpg
 ---
-<img src="/images/annihilation.jpg" style="float: right; margin: 10px; width:200px;" />This is a seriously creepy sci-fi post apocalypse novel that follows a biologist on expedition into Area X. Her expedition runs into the tower. A mysterious living structure embedded into the ground. Who is producing the writing on the wall? Why does it seem alive? 
+This is a seriously creepy sci-fi post apocalypse novel that follows a biologist on expedition into Area X. Her expedition runs into the tower. A mysterious living structure embedded into the ground. Who is producing the writing on the wall? Why does it seem alive? 
 
 I am not particularly familiar with Horror. I tend to find the genre hides information, in most cases, seemingly at random. It often is also filled with characters holding the idiot ball. Instead of scary this tends to make the genre irritating. I'm pleased to say Annihilation didn't do that. The biologist picked up information and shared it with the reader. The biologist was also a biologist (i.e not a complete idiot). There was still a problem, though. The information she picked up didn't really help her. In this, the novel perfectly captured the feeling of a false explanation.
 
