@@ -9,7 +9,7 @@ Cat's Cradle is a Vonnegut novel. This means the novel is not about what it says
 
 The novel is also the author's conversion story. It shows a philosophy of cheerfulness in the face of oblivion. The philosophy is made into a religion. Bokononism was outlawed by it's own creators. Following the religion is punishable by death. This was designed to give people more zest in their lives.
 
->All of the true things that I am about to tell you are shameless lies.
+>"All of the true things that I am about to tell you are shameless lies."
 
 Primarily of course, this novel is a comedy. It is best described as oblivious juxtaposition. At one point Angela is complaining about how little money her father made for making the atom bomb. Simultaneously her brother's artwork is going to make a villager rich. It's waterlogged crap. 
 
