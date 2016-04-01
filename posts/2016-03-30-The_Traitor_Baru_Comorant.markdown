@@ -1,10 +1,12 @@
 ---
-title: The Traitor Baru Comorant - Seth Dickinson
+title: The Traitor Baru Cormorant - Seth Dickinson
 liked: Yes
 author: Andrew
 image: ttbc.jpg
 ---
-This book is set in an alternate past where the Masquerade is an empire that is achieving conquest through economics rather than through the strength of their Navy or Calvary. Appropriately the main character(Baru) is a bright accountant. I read this over the past two days when I should have been sleeping and found it about as stressful to read as Argo was to watch. Multiple crowning moments of awesome which were tempered by the disgust I felt throughout the whole novel. 
+I never knew accounting could feel this energising. This book is set in an alternate past where the Masquerade is an empire that is achieving conquest through economics rather than through the strength of their Navy or Calvary. Appropriately the main character(Baru) is a bright accountant. She is tasked with cruel task of controlling and conquering a country. Just as the Masquerade conquered hers. Will Baru be able to maintain her appearance as a loyalist? 
+
+I read this over the past two days when I should have been sleeping and found it about as stressful to read as Argo was to watch. Multiple crowning moments of awesome which were tempered by the disgust I felt throughout the whole novel. 
 
 If you have ever been annoyed when a main character fails to do the maths and make an emotionally hard choice this book will be for you. In many cases Baru makes choices much harder than you would reasonably expect even a competent hero to perform and moves into the realm of a monster.
 
