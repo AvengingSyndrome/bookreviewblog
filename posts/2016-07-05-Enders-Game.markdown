@@ -13,6 +13,6 @@ I have read this novel at least 5 times. Not once has it taken more than 24 hour
 
 Ender's game is one of my all time favorite novels. You get to feel a lot of outrage when Ender is bullied for his brilliance. You can even feel his exhaustion and apathy as he struggles with command school. His worry as he tries to protect himself without becoming like his brother. 
 
-Ender belongs to a family of genius. Like the little bear in Goldilocks, Ender is midway between his psychopathic brother Peter and empathetic sister Valentine. In his absence on earth they are on earth manipulating their way into political power and provides a gripping secondary story line.
+Ender belongs to a family of genius. Like the little bear in Goldilocks, Ender is midway between his psychopathic brother Peter and empathetic sister Valentine. In his absence from earth they are manipulating their way into political power and provides a gripping secondary story line.
 
 If you've only watched the movie and thought it was "eh" rest assured the book is far far better. I wouldn't really recommend any sequels though "Speaker for the Dead" was not bad. 
